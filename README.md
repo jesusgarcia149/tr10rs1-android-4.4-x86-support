@@ -2,7 +2,7 @@
 
 
 <b>Google Chrome</b></br>
-<a href="https://www.apkmirror.com/apk/google-inc/chrome/chrome-81-0-4044-117-release/google-chrome-fast-secure-81-0-4044-117-4-android-apk-download/">
+<a href="https://drive.google.com/uc?id=12d5al9M1fU3GIMQP56reQdIRgHpfnoRc&authuser=0&export=download">
  <b> Chrome-81.0.4044.117-x86<b>
  </a>
 <br> 
