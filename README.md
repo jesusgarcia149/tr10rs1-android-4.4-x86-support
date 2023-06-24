@@ -8,7 +8,7 @@
  </a>
 <br> 
 
-<b> Links to Multimedia Sties  </b>  <br>
+<b> Links to Social Media  </b>  <br>
 www.youtube.com <br>
 www.facebook.com <br>
 www.instagram.com <br>
