@@ -5,8 +5,9 @@
 <a href="https://www.apkmirror.com/apk/google-inc/chrome/chrome-81-0-4044-117-release/google-chrome-fast-secure-81-0-4044-117-4-android-apk-download/">
  <b> Chrome-81.0.4044.117-x86<b>
  </a>
-<br>
-
+ <a href="https://www.apkmirror.com/apk/google-inc/chrome/chrome-81-0-4044-117-release/google-chrome-fast-secure-81-0-4044-117-4-android-apk-download/">
+ <b> Chrome-81.0.4044.117-armv7<b>
+ </a>
 <br>
 
 <b> Links to Multimedia Sties  </b>  <br>
