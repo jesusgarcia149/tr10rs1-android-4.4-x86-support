@@ -18,6 +18,12 @@
 </a>
 <br> 
 
+<b>File Manager</b></br>
+<a href="https://apkgold.es/download?file_id=1743000/file-manager11">
+ <b>File-Manager-2.6.5-x86</b>
+</a>
+<br> 
+
 <b> Links to Social Media  </b>  <br>
 www.youtube.com <br>
 www.facebook.com <br>
