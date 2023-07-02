@@ -5,12 +5,16 @@
 <b>Google Chrome</b></br>
 <a href="https://apkgold.es/download?file_id=1753878/chrome">
  <b> Chrome-81.0.4044.138-x86<b>
- </a>
-<br> 
+ </a
 
 <b>LibreTorrent</b></br>
 <a href="https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=1060399&key=940030a42fe78cd322489e84994b8f200ae850a3">
  <b>LibreTorrent-2.0-x86<b>
+ </a> 
+
+<b>VLC</b></br>
+<a href="https://www.apkmirror.com/apk/videolabs/vlc/vlc-3-1-2-release/vlc-for-android-3-1-2-6-android-apk-download/download/?key=7407cf5dcfd6d82fdd7f8632fa2a360ef5c21c5c">
+ <b>VLC-3.1.2-x86<b>
  </a>
 <br> 
 
