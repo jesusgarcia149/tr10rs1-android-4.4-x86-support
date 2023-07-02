@@ -8,6 +8,12 @@
  </a>
 <br> 
 
+<b>LibreTorrent</b></br>
+<a href="https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=1060399&key=940030a42fe78cd322489e84994b8f200ae850a3">
+ <b>LibreTorrent-2.0-x86<b>
+ </a>
+<br> 
+
 <b> Links to Social Media  </b>  <br>
 www.youtube.com <br>
 www.facebook.com <br>
