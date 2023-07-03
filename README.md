@@ -24,6 +24,12 @@
 </a>
 <br> 
 
+<b>Net Share</b></br>
+<a href="https://apkcombo.com/es/net-share-extend-a-wifi-network-to-all-devices/com.everyoneisaware.netshare/download/apk">
+ <b>Net-Share-1.8-x86</b>
+</a>
+<br> 
+
 <b> Links to Social Media  </b>  <br>
 www.youtube.com <br>
 www.facebook.com <br>
