@@ -24,7 +24,7 @@
 </a>
 <br> 
 
-<b>internet speed meter lite 1 2 11</b></br>
+<b>internet speed meter lite</b></br>
 <a href="https://www.apkmirror.com/apk/dynamicapps/internet-speed-meter-lite/internet-speed-meter-lite-1-2-11-release/internet-speed-meter-lite-1-2-11-android-apk-download/download/?key=f005789f0aa50085403a63944d6a6e7a18daacaf">
  <b>internet-speed-meter-lite-1-2-11-x86</b>
 </a>
