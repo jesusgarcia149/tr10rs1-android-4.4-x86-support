@@ -7,6 +7,13 @@
  <b>F-Droidclassic-1110-x86</b>
 </a
 
+<p>File Explorer</p>
+<p>VLC</p>
+<p>Client Torrent</p>
+<p>Throughput</p>
+<p>Librespeed</p>
+<p>NetGuard</p>
+
 <b>Google Chrome</b></br>
 <a href="https://apkgold.es/download?file_id=1753878/chrome">
  <b>Chrome-81.0.4044.138-x86</b>
