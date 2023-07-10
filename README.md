@@ -5,7 +5,7 @@
 <b>Store - Free Droid</b></br>
 <a href="https://f-droid.org/repo/eu.bubu1.fdroidclassic_1110.apk">
  <b>F-Droidclassic-1110-x86</b>
-</a
+</a>
 
 <p>File Explorer</p>
 <p>VLC</p>
@@ -17,7 +17,7 @@
 <b>Google Chrome</b></br>
 <a href="https://apkgold.es/download?file_id=1753878/chrome">
  <b>Chrome-81.0.4044.138-x86</b>
-</a
+</a>
 
 <b>LibreTorrent</b></br>
 <a href="https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=1060399&key=940030a42fe78cd322489e84994b8f200ae850a3">
