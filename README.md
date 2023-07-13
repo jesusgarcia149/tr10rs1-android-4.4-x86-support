@@ -8,7 +8,7 @@
 <b>File Explorer</b> <br>
 file:///sdcard/
 
-<b>Download Manager & Files Manager</b> <br>
+<b>Download Manager & Files Manager (Open & Delete)</b> <br>
 chrome-native://downloads/
 
 <b>System</b> <br>
