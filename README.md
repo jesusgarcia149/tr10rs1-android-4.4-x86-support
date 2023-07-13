@@ -14,6 +14,9 @@ chrome-native://downloads/
 <b>System</b> <br>
 chrome://version/
 
+<b>SpeedTest by Ookla</b> <br>
+https://www.speedtest.net/es
+
 <b> Links to Social Media  </b>  <br>
 www.youtube.com <br>
 www.facebook.com <br>
