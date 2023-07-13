@@ -5,10 +5,9 @@
  <b>Chrome-81.0.4044.138-x86</b>
 </a>
 
-<b>File Explorer</b></br>
-<a href="file:///sdcard/">
- <b>file:///sdcard/</b>
-</a>
+<b>File Explorer</b></
+file:///sdcard/
+
 
 <b> Links to Social Media  </b>  <br>
 www.youtube.com <br>
