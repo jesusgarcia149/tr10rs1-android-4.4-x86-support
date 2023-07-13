@@ -6,7 +6,7 @@
 </a>
 
 <b>File Explorer</b></br>
-<a href="file:///sdcard/">
+<a href="https://file:///sdcard/">
  <b>File Explorer</b>
 </a>
 
