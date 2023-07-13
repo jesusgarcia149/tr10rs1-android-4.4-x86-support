@@ -8,6 +8,11 @@
 <b>File Explorer</b> <br>
 file:///sdcard/
 
+<b>Download Manager & Files Manager</b> <br>
+chrome-native://downloads/
+
+<b>System</b> <br>
+chrome://version/
 
 <b> Links to Social Media  </b>  <br>
 www.youtube.com <br>
