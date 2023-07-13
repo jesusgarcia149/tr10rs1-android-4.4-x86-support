@@ -1,19 +1,5 @@
 # tr10rs1-android-4.4-x86-apps
 
-<img src="https://github.com/jesusgarcia149/android-4.4-for-cloud/blob/main/Screenshot_2023-06-24-00-49-40.png" height="128px"><br>
-
-<b>Store - Free Droid</b></br>
-<a href="https://f-droid.org/repo/eu.bubu1.fdroidclassic_1110.apk">
- <b>F-Droidclassic-1110-x86</b>
-</a>
-
-<p>File Explorer</p>
-<p>VLC</p>
-<p>Client Torrent</p>
-<p>Throughput</p>
-<p>Librespeed</p>
-<p>NetGuard</p>
-
 <b>Google Chrome</b></br>
 <a href="https://apkgold.es/download?file_id=1753878/chrome">
  <b>Chrome-81.0.4044.138-x86</b>
