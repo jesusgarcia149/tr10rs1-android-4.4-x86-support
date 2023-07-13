@@ -7,7 +7,7 @@
 
 <b>File Explorer</b></br>
 <a href="file:///sdcard/">
- <b>File Explorer</b>
+ <b>file:///sdcard/</b>
 </a>
 
 <b> Links to Social Media  </b>  <br>
