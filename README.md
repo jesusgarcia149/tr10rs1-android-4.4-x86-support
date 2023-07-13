@@ -1,5 +1,7 @@
 # tr10rs1-android-4.4-x86-apps
 
+https://github.com/jesusgarcia149/tr10rs1-android-4.4-x86-for-cloud/blob/browser/Screenshot_2023-07-13-19-17-19.png
+
 <b>Google Chrome</b></br>
 <a href="https://apkgold.es/download?file_id=1753878/chrome">
  <b>Chrome-81.0.4044.138-x86</b>
