@@ -1,8 +1,6 @@
 # tr10rs1-android-4.4-x86-apps
 
-# <a href="https://github.com/jesusgarcia149/tr10rs1-android-4.4-x86-support/tree/browser">
- <b>Cloud Support</b>
-</a>
+# <a href="https://github.com/jesusgarcia149/tr10rs1-android-4.4-x86-support/tree/browser"> <b>Cloud Support</b> </a>
 
 <img src="https://github.com/jesusgarcia149/android-4.4-for-cloud/blob/main/Screenshot_2023-06-24-00-49-40.png" height="128px"><br>
 
