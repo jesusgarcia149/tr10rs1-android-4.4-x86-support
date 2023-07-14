@@ -12,7 +12,7 @@ file:///sdcard/
 
 <b>Texto Editor</b> <br>
 <pre>
-    <code>text/html, <html contenteditable></code>
+    <code>text/html,  &lt;html contenteditable&gt;</code>
 </pre>
 
 <b>Download Manager & Files Manager (Open & Delete)</b> <br>
