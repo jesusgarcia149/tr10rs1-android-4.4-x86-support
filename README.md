@@ -19,7 +19,7 @@
 
 <b>Download Manager & Files Manager (Open & Delete)</b> <br>
 <pre>
-    <code>chrome-native://downloads/&gt;</code>
+    <code>chrome-native://downloads&gt;</code>
 </pre>
 
 <b>System</b> <br>
