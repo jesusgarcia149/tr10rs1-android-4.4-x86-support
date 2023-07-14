@@ -48,17 +48,3 @@
  <b>Net-Share-1.8-x86</b>
 </a>
 <br> 
-
-<b> Links to Social Media  </b>  <br>
-www.youtube.com <br>
-www.facebook.com <br>
-www.instagram.com <br>
-www.web.whatsapp.com <br>
-
-<b>Watch Movies and Series</b> <br>
-https://hackstore.rs/ <br>
-<b>Watch Wrestling</b> <br>
-https://descargas.eventoshq.me/category/wwe/ <br>
-<br>
-<b> Download and View Torrent Files </b> <br>
-https://www.seedr.cc <br>
