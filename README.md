@@ -9,22 +9,22 @@
 
 <b>File Explorer</b> <br>
 <pre>
-    <code>file:///sdcard/&gt;</code>
+    <code>file:///sdcard/</code>
 </pre>
 
 <b>Texto Editor</b> <br>
 <pre>
-    <code>text/html,  &lt; html contenteditable &gt; </code>
+    <code>text/html,  &lt;html contenteditable&gt;</code>
 </pre>
 
 <b>Download Manager & Files Manager (Open & Delete)</b> <br>
 <pre>
-    <code>chrome-native://downloads&gt;</code>
+    <code>chrome-native://downloads</code>
 </pre>
 
 <b>System</b> <br>
 <pre>
-    <code>chrome://version/&gt;</code>
+    <code>chrome://version/</code>
 </pre>
 
 <b>SpeedTest by Ookla</b> <br>
