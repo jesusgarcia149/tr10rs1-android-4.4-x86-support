@@ -10,6 +10,9 @@
 <b>File Explorer</b> <br>
 file:///sdcard/
 
+<b>Texto Editor</b> <br>
+data:text/html, <html contenteditable>
+
 <b>Download Manager & Files Manager (Open & Delete)</b> <br>
 chrome-native://downloads/
 
