@@ -37,8 +37,8 @@
     <code>chrome://dino</code>
 </pre>
 
-<b>SpeedTest by Ookla</b> <br>
-https://www.speedtest.net/es
+<b>SpeedTest by Google</b> <br>
+https://fiber.google.com/intl/es/speedtest/
 
 <b> Links to Social Media  </b>  <br>
 www.youtube.com <br>
