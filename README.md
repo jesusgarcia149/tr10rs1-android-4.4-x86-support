@@ -8,7 +8,9 @@
 </a>
 
 <b>File Explorer</b> <br>
-file:///sdcard/
+<pre>
+    <code>file:///sdcard/&gt;</code>
+</pre>
 
 <b>Texto Editor</b> <br>
 <pre>
@@ -16,10 +18,14 @@ file:///sdcard/
 </pre>
 
 <b>Download Manager & Files Manager (Open & Delete)</b> <br>
-chrome-native://downloads/
+<pre>
+    <code>chrome-native://downloads/&gt;</code>
+</pre>
 
 <b>System</b> <br>
-chrome://version/
+<pre>
+    <code>chrome://version/&gt;</code>
+</pre>
 
 <b>SpeedTest by Ookla</b> <br>
 https://www.speedtest.net/es
