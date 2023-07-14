@@ -24,7 +24,7 @@
 
 <b>System</b> <br>
 <pre>
-    <code>chrome://version/</code>
+    <code>chrome://version</code>
 </pre>
 
 <b>SpeedTest by Ookla</b> <br>
