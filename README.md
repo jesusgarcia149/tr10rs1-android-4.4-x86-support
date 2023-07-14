@@ -11,7 +11,7 @@
 file:///sdcard/
 
 <b>Texto Editor</b> <br>
-<a href="data:text/html, <html contenteditable>">
+<a href="data:text/html, <html contenteditable>">text editor</a>
 
 <b>Download Manager & Files Manager (Open & Delete)</b> <br>
 chrome-native://downloads/
