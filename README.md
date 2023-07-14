@@ -42,6 +42,7 @@ https://www.speedtest.net/es
 
 <b> Links to Social Media  </b>  <br>
 www.youtube.com <br>
+www.tiktok.com/foryou <br>
 www.facebook.com <br>
 www.instagram.com <br>
 www.web.whatsapp.com <br>
