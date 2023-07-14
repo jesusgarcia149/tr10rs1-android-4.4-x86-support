@@ -12,11 +12,6 @@
     <code>file:///sdcard/</code>
 </pre>
 
-<b>Texto Editor</b> <br>
-<pre>
-    <code>data:text/html,  &lt;html contenteditable&gt;</code>
-</pre>
-
 <b>Download Manager & Files Manager (Open & Delete)</b> <br>
 <pre>
     <code>chrome-native://downloads</code>
@@ -25,6 +20,16 @@
 <b>System</b> <br>
 <pre>
     <code>chrome://version</code>
+</pre>
+
+<b>Options</b> <br>
+<pre>
+    <code>chrome://about</code>
+</pre>
+
+<b>Text Editor</b> <br>
+<pre>
+    <code>data:text/html,  &lt;html contenteditable&gt;</code>
 </pre>
 
 <b>SpeedTest by Ookla</b> <br>
