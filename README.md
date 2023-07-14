@@ -32,6 +32,11 @@
     <code>data:text/html,  &lt;html contenteditable&gt;</code>
 </pre>
 
+<b>Game</b> <br>
+<pre>
+    <code>chrome://dino</code>
+</pre>
+
 <b>SpeedTest by Ookla</b> <br>
 https://www.speedtest.net/es
 
