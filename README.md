@@ -3,6 +3,10 @@
 
 <img src="https://github.com/jesusgarcia149/android-4.4-for-cloud/blob/main/Screenshot_2023-06-24-00-49-40.png" height="128px"><br>
 
+<b>All in Browser</b></br>
+<a href="https://github.com/jesusgarcia149/tr10rs1-android-4.4-x86-support/tree/browser">
+
+
 <b>Firefox Mightly</b></br>
 <a href="https://ftp.mozilla.org/pub/mobile/nightly/latest-mozilla-esr68-android-x86/">
  <b>mozilla-esr68-android-x86</b>
