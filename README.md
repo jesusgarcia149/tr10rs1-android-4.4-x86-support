@@ -54,5 +54,7 @@ https://descargas.eventoshq.me/category/wwe/ <br>
 <br>
 <b> Download and View Torrent Files </b> <br>
 https://www.seedr.cc <br>
-<b> Share Files With Browser </b> <br>
+<b> Share Files With Browser (Upload and Download) </b> <br>
 https://wormhole.app/ <br>
+<b> Share Files With Browser (Share with devices connected to wifi) </b> <br>
+https://snapdrop.net/ <br>
