@@ -58,3 +58,4 @@ https://www.seedr.cc <br>
 https://wormhole.app/ <br>
 <b> Share Files With Browser (Share with devices connected to wifi) </b> <br>
 https://snapdrop.net/ <br>
+https://www.sharedrop.io/ <br>
