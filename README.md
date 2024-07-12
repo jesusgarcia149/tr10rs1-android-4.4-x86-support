@@ -1,8 +1,8 @@
 # <a href="https://github.com/jesusgarcia149/tr10rs1-android-4.4-x86-support/tree/browser"> <b>Cloud Support</b> </a>
+# <a href="https://github.com/jesusgarcia149/tr10rs1-android-4.4-x86-support/tree/update-software"> <b>Update Software</b> </a>
+
+
 # tr10rs1-android-4.4-x86-apps
-
-<img src="https://github.com/jesusgarcia149/android-4.4-for-cloud/blob/main/Screenshot_2023-06-24-00-49-40.png" height="128px"><br>
-
 <b>Google Chrome</b></br>
 <a href="https://apkgold.es/download?file_id=1753878/chrome">
  <b>Chrome-81.0.4044.138-x86</b>
