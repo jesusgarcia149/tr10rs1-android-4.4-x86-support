@@ -3,6 +3,10 @@
 
 <img src="https://github.com/jesusgarcia149/android-4.4-for-cloud/blob/main/Screenshot_2023-06-24-00-49-40.png" height="128px"><br>
 
+<b>Google Chrome</b></br>
+<a href="https://apkgold.es/download?file_id=1753878/chrome">
+ <b>Chrome-81.0.4044.138-x86</b>
+</a>
 
 <b>Firefox Mightly</b></br>
 <a href="https://ftp.mozilla.org/pub/mobile/nightly/latest-mozilla-esr68-android-x86/">
@@ -26,11 +30,6 @@
 <p>Throughput</p>
 <p>Librespeed</p>
 <p>NetGuard</p>
-
-<b>Google Chrome</b></br>
-<a href="https://apkgold.es/download?file_id=1753878/chrome">
- <b>Chrome-81.0.4044.138-x86</b>
-</a>
 
 <b>LibreTorrent</b></br>
 <a href="https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=1060399&key=940030a42fe78cd322489e84994b8f200ae850a3">
