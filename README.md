@@ -1,5 +1,5 @@
 <a href="https://github.com/jesusgarcia149/tr10rs1-android-4.4-x86-support/tree/main">
- <b>MAIN</b>
+ <h1>MAIN</h1>
 </a>
 
 # BASIC APPS - tr10rs1-android-4.4-x86-apps
