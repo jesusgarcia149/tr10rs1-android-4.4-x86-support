@@ -1,4 +1,4 @@
-**# <a href="https://github.com/jesusgarcia149/tr10rs1-android-4.4-x86-support/tree/main"> <b>Main</b> </a>**
+# <a href="https://github.com/jesusgarcia149/tr10rs1-android-4.4-x86-support/tree/main"> <b>Main</b> </a>
 
 # Actualizar Software de Tablet Canaima
 ## Video
