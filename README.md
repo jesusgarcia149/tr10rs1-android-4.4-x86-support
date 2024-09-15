@@ -1,4 +1,4 @@
-# tr10rs1-android-4.4-x86-apps
+# BASIC APPS - tr10rs1-android-4.4-x86-apps
 <b>Google Chrome</b></br>
 <a href="https://apkgold.es/download?file_id=1753878/chrome">
  <b>Chrome-81.0.4044.138-x86</b>
