@@ -18,7 +18,7 @@
 
 <b>Kodi</b></br>
 <a href="https://mirrors.kodi.tv/releases/android/x86/old/kodi-16.1-Jarvis-x86.apk">
- <b>Chrome-81.0.4044.138-x86</b>
+ <b>kodi-16.1-Jarvis-x86</b>
 </a>
 
 <b>Store - Free Droid</b></br>
